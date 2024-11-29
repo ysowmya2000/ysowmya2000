@@ -6,7 +6,7 @@
 <br>
 <ul>
         <li>💼 A passionate Data Engineer.</li>
-        <li>🤔 Areas of Intrest: Big data engineering, Machine Learning, Deep Learning.</li>
+        <li>🤔 Areas of Interest: Big data engineering, Machine Learning, Deep Learning.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/sowmyayerraguntla">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I devour books faster than my code compiles.</li>
